@@ -301,3 +301,7 @@ Major mode: haskell-mode
 Prefix: "bindOp"
 Completions: none
 ```
+
+# Flymake
+
+Seem to be getting a load of _flymake.hs files created.
