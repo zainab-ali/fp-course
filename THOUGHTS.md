@@ -305,3 +305,6 @@ Completions: none
 # Flymake
 
 Seem to be getting a load of _flymake.hs files created.
+
+# Operator associativity
+How should you decide if a symbolic operator is left / right assoc?
